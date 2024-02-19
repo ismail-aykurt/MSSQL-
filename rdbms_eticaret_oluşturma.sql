@@ -1,3 +1,5 @@
+--Arkadaşlar bu komutları kullanarak hazır bir e ticaret veri seti oluşturabilirsiniz
+
 Create table USERS(
 ID INT IDENTITY(1,1),
 USERNAME_ VARCHAR(50),
